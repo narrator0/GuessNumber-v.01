@@ -3,3 +3,4 @@ C:\Users\hao\Documents\Visual Studio 2013\Projects\NumberOFAB(BotCompete)\Number
 C:\Users\hao\Documents\Visual Studio 2013\Projects\NumberOFAB(BotCompete)\NumberOFAB(BotCompete)\bin\Release\NumberOFAB(BotCompete).pdb
 C:\Users\hao\Documents\Visual Studio 2013\Projects\NumberOFAB(BotCompete)\NumberOFAB(BotCompete)\obj\Release\NumberOFAB(BotCompete).exe
 C:\Users\hao\Documents\Visual Studio 2013\Projects\NumberOFAB(BotCompete)\NumberOFAB(BotCompete)\obj\Release\NumberOFAB(BotCompete).pdb
+C:\Users\hao\Documents\Visual Studio 2013\Projects\NumberOFAB(BotCompete)\NumberOFAB(BotCompete)\obj\Release\NumberOFAB(BotCompete).csprojResolveAssemblyReference.cache
