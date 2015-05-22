@@ -1,0 +1,6 @@
+c:\users\hao\documents\visual studio 2013\Projects\NumberOFAB(BotCompete)\NumberOFAB(BotCompete)\bin\Debug\NumberOFAB(BotCompete).exe.config
+c:\users\hao\documents\visual studio 2013\Projects\NumberOFAB(BotCompete)\NumberOFAB(BotCompete)\bin\Debug\NumberOFAB(BotCompete).exe
+c:\users\hao\documents\visual studio 2013\Projects\NumberOFAB(BotCompete)\NumberOFAB(BotCompete)\bin\Debug\NumberOFAB(BotCompete).pdb
+c:\users\hao\documents\visual studio 2013\Projects\NumberOFAB(BotCompete)\NumberOFAB(BotCompete)\obj\Debug\NumberOFAB(BotCompete).csprojResolveAssemblyReference.cache
+c:\users\hao\documents\visual studio 2013\Projects\NumberOFAB(BotCompete)\NumberOFAB(BotCompete)\obj\Debug\NumberOFAB(BotCompete).exe
+c:\users\hao\documents\visual studio 2013\Projects\NumberOFAB(BotCompete)\NumberOFAB(BotCompete)\obj\Debug\NumberOFAB(BotCompete).pdb
